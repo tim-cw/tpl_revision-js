@@ -31,7 +31,7 @@ Il faut maintenant gérer l'ouverture et la fermeture de la carte, ainsi que sa 
 #### `Méthode selectPerso`
 
 1. Inverser la valeur de votre variable globale `isActive`
-1. Alterner la classe css `opened` en utilisant une méthode de classList sur votre variable `element`
+1. Alterner la classe css `selected` en utilisant une méthode de classList sur votre variable `element`
 
 Au fait, avez-vous vu un bouton lorsque vous avez agrandit une carte? Ce dernier est fait à l'aide de 2 icônes qui s'affichent un à la fois selon l'état.
 
