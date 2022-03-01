@@ -15,7 +15,7 @@
      - _N'oubliez pas le bind_
      - Ajoutez un console log avec `#2 - togglePerso dans Army` dans cette méthode
      - Testez dans le navigateur
-     - Dans cette méthode, utilisez `event.target`, qui permet de savoir sur quel élément on a cliqué, afin de lui ajouter la classe `opened` s'il ne l'a pas, ou de la retirer s'il l'a. (un genre de toggle)
+     - Dans cette méthode, utilisez `event.currentTarget`, qui permet de savoir sur quel élément on a cliqué, afin de lui ajouter la classe `opened` s'il ne l'a pas, ou de la retirer s'il l'a. (un genre de toggle)
      - Testez à nouveau, vous devriez voir les cartes s'agrandir
 
 <br><br><hr>
