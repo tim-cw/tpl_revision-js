@@ -1,6 +1,6 @@
 # Révision Les généraux de la TIM
 
-## `Étape 3` - Classe Army
+## `Étape 2` - Classe Army
 
 ### Classe Army
 
