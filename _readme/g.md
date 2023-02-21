@@ -33,7 +33,7 @@ Nous avons besoin d'effacer le contenu de la liste (ul) qui pourrait contenir de
 
 ### Classe Perso
 
-1. Sous `selectPerso`, créez la méthode `closePerso`
+1. Sous la méthode `togglePerso`, créez la méthode `closePerso`
    - Ajoutez le console.log `'#6 - Yé 6h on fârme!'`
    - Redéfinissez la valeur de `isActive` comme étant fausse
    - Sur l'`élément` :
